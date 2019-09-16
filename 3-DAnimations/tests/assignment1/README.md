@@ -1,5 +1,11 @@
+# Path to the code
+https://github.com/sanggs/CS839-PhysicsBasedModeling/tree/master/3-DAnimations/tests/assignment1
+
 # Simulation
 The simulation is made on an elastic surface bent outwards being stretched to make a cone. 
+
+# Platform
+This code has been tested on OSX.
 
 # How to run
 Run the following commands from within this directory
