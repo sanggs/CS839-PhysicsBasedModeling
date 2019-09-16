@@ -1,14 +1,15 @@
-#Simulation
+# Simulation
 The simulation is made on an elastic surface bent outwards being stretched to make a cone. 
 
-#How to run
+# How to run
 Run the following commands from within this directory
 
 cd ../../
 cmake -G Xcode
 
-Open the Xcode project created in this directory in Xcode.
-Select the assignment1 build option and run. 
-This generates the 'assignment1.usda' file in the CS839-PhysicsBasedModeling/3-DAnimations/tests/assignment1/Debug folder.
+1. Open the Xcode project created in this directory in Xcode.
+2. Select the assignment1 build option and run. 
+3. This generates the 'assignment1.usda' file in the CS839-PhysicsBasedModeling/3-DAnimations/tests/assignment1/Debug folder.
 
+# Visualise the usda file
 Use the usdview API provided by PIXAR USD to visualise this file.
